@@ -1,5 +1,7 @@
 # Job Search Agent Kit
 
+![Your next chapter starts here: discover, track, prepare, interview.](assets/job-search-map.svg)
+
 Set up an AI assistant that can discover suitable jobs, track applications, prepare truthful materials and coach interviews across sessions. Bring your own agent and choose local Markdown, Obsidian, Notion or another canonical store.
 
 ## Quick start
