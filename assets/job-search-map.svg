@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+  <title id="title">Your next chapter starts here</title>
+  <desc id="desc">A playful route connects four stages of a job search: discover, track, prepare, and interview. A small friendly robot carries a checklist along the route.</desc>
+  <defs>
+    <linearGradient id="sky" x2="1" y2="1"><stop stop-color="#101b36"/><stop offset="1" stop-color="#202650"/></linearGradient>
+    <linearGradient id="card" x2="0" y2="1"><stop stop-color="#283756"/><stop offset="1" stop-color="#1d2946"/></linearGradient>
+  </defs>
+  <rect width="1200" height="420" rx="26" fill="url(#sky)"/>
+  <g fill="#b5c9f8" opacity=".48"><circle cx="77" cy="68" r="2"/><circle cx="1123" cy="71" r="3"/><circle cx="1054" cy="367" r="2"/><circle cx="104" cy="345" r="3"/><circle cx="1084" cy="135" r="2"/></g>
+  <g font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif">
+    <text x="56" y="62" fill="#9bf2cc" font-size="13" font-weight="700" letter-spacing="3">JOB SEARCH AGENT KIT</text>
+    <text x="56" y="111" fill="#f6f7ff" font-size="38" font-weight="750">Your next chapter starts here.</text>
+    <text x="58" y="143" fill="#bbc9e8" font-size="17">A little structure. A helpful agent. One good next step.</text>
+    <path d="M180 264 C260 188 312 324 444 260 S640 210 726 264 S910 308 1008 255" fill="none" stroke="#7e9ad5" stroke-width="3" stroke-dasharray="7 9"/>
+    <g stroke="#52658a" stroke-width="1">
+      <rect x="58" y="188" width="232" height="134" rx="18" fill="url(#card)"/>
+      <rect x="342" y="210" width="232" height="134" rx="18" fill="url(#card)"/>
+      <rect x="626" y="188" width="232" height="134" rx="18" fill="url(#card)"/>
+      <rect x="910" y="210" width="232" height="134" rx="18" fill="url(#card)"/>
+    </g>
+    <g fill="none" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+      <g stroke="#9bf2cc"><circle cx="94" cy="222" r="12"/><path d="m103 231 9 9"/></g>
+      <g stroke="#b8a4ff"><rect x="367" y="233" width="27" height="31" rx="4"/><path d="m373 243 3 3 5-6m-8 15h14"/></g>
+      <g stroke="#ffcf85"><path d="M652 212h24v30h-24zM658 220h12m-12 7h8m-3-15v-5"/></g>
+      <g stroke="#9dc7ff"><path d="M940 234h29v23h-14l-9 7v-7h-6zM947 244h15"/></g>
+    </g>
+    <g fill="#f6f7ff" font-size="23" font-weight="700"><text x="82" y="278">Discover</text><text x="366" y="300">Track</text><text x="650" y="278">Prepare</text><text x="934" y="300">Interview</text></g>
+    <g fill="#bdcae6" font-size="13"><text x="82" y="301">Find work that fits you.</text><text x="366" y="323">Keep the evidence together.</text><text x="650" y="301">Practice one step at a time.</text><text x="934" y="323">Bring your own experience.</text></g>
+    <text x="58" y="384" fill="#91a5ca" font-size="13">Your agent helps with the journey. You choose the destination.</text>
+    <g transform="translate(1036 69)">
+      <path d="M30 7V0m-4 0h8" stroke="#9bf2cc" stroke-width="3" stroke-linecap="round"/>
+      <rect x="4" y="10" width="53" height="39" rx="13" fill="#9bf2cc"/>
+      <rect x="12" y="18" width="37" height="22" rx="8" fill="#15233e"/>
+      <circle cx="23" cy="28" r="3" fill="#9bf2cc"/><circle cx="38" cy="28" r="3" fill="#9bf2cc"/>
+      <path d="M21 51v10m20-10v10" stroke="#9bf2cc" stroke-width="7" stroke-linecap="round"/>
+      <path d="m-1 28-8 9m71-9 7 8" stroke="#9bf2cc" stroke-width="5" stroke-linecap="round"/>
+      <rect x="64" y="34" width="21" height="26" rx="3" fill="#ffcf85" transform="rotate(12 64 34)"/>
+      <path d="m69 43 3 3 5-5m-9 11h9" stroke="#675031" stroke-width="2" fill="none"/>
+    </g>
+  </g>
+</svg>
