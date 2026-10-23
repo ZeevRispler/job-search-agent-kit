@@ -8,7 +8,7 @@ description: Prepare truthful application materials and reconcile submissions, r
 ## Materials
 
 
-Read current authorization, candidate evidence and unknowns, exact role note, tracker and the resume-source section of profile/CANDIDATE.md. Resolve recruiter/referral overlap before direct application work. Match actual evidence to the role rather than copying posting phrases. Keep dates, titles, metrics, scope and personal contribution accurate. Ask or leave unknown required personal answers unresolved.
+Read current authorization, candidate evidence and unknowns, exact role note, tracker and the resume-source section of profile/CANDIDATE.md. Resolve recruiter/referral overlap before direct application work. Tailor lightly: emphasize, reorder or clarify genuinely relevant existing experience, and shorten less relevant detail where useful. Preserve the candidate’s authentic voice and overall career story. Do not rewrite every bullet to mirror one posting, copy its distinctive wording or keywords, or inflate scope to satisfy a requirement. Keep the general resume when tailoring adds little value, and briefly explain meaningful changes. Match actual evidence to the role rather than copying posting phrases. Keep dates, titles, metrics, scope and personal contribution accurate. Ask or leave unknown required personal answers unresolved.
 
 Preserve originals and create distinct versions. Store artifacts under resumes/tailored/JNNN/ or resumes/materials/JNNN/. Check exported document layout with available rendering tools before delivery. If rendering is unavailable, disclose the verification limit. Keep proposed phrasing separate from verified experience.
 
