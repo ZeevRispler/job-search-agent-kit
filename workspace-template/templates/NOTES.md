@@ -7,7 +7,9 @@ Copy the section you need into a new note. Create role, company, exercise and se
 ## Identity and posting
 
 Employer aliases, exact title, board/requisition ID, canonical URL and URL aliases:
-Checked on, description/location and active application route:
+First discovered on and discovery source (preserve across rechecks):
+Last verified on, checked URL, description/location and active application route:
+Next recheck date or trigger and reason:
 Posting availability (separate from application process):
 Compensation range, currency and base/total basis:
 Work model, geographic eligibility, office/travel duties:
@@ -48,12 +50,18 @@ Metric ledger (version, numerator/denominator, unit, horizon, uncertainty):
 
 One focused prompt. Do not expose solution points before the candidate attempts it.
 
-## Prepared reveals and hints
+## Complete exercise plan (prepare before the opening)
 
-Progressive facts consistent with opening. Explicitly distinguish a new assumption.
+All stages and the order/conditions for revealing them:
+Likely answer branches and prepared follow-ups:
+Progressive facts and hints consistent with the opening:
+Worked solution, alternative defensible answers and assessment criteria:
+For multi-step code: reference solution and tests for each stage, plus extension compatibility checks:
+Keep this plan separate from what the candidate sees. If an unplanned branch becomes necessary, pause to validate it against the complete scenario first.
 
 ## Preflight (complete before asking)
 
+- Full sequence, branches, reveals, hints and worked solution are prepared before asking.
 - Opening, examples, follow-ups and tests agree.
 - Arithmetic and reference implementation checked where applicable.
 - Necessary components and constraints disclosed.
